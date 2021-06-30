@@ -1,4 +1,3 @@
-package intervalUnion.space_O_1_;
 
 import java.util.Arrays;
 
